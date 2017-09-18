@@ -1,5 +1,5 @@
 <?php
-
+//création dela classe voiture
 class Voiture
 {
   public $type;
