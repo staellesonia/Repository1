@@ -19,7 +19,6 @@ class Voiture
 }
 $voiture = new Voiture('VW', 'Rouge', '50000euros');
 var_dump($voiture);
-echo $init_type;
 $voiture2 = new Voiture('breack', 'verte', '25000euros');
 // echo $voiture->getBrand($brand);
 ?>

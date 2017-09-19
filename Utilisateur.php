@@ -68,7 +68,7 @@ Class Utilisateur
     {
         header('Location:' . $url);
     }
-} // Fin de la déclaratino de la méthode
+} // Fin de la déclaration de la méthode
 
 
 
